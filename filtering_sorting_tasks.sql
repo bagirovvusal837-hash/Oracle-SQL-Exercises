@@ -1,3 +1,9 @@
+
+/* PROJECT: Oracle SQL Filtering and Sorting Exercises
+   AUTHOR: Bagirov Vusal
+   DESCRIPTION: Practice queries covering WHERE, BETWEEN, IN, LIKE, and ORDER BY clauses
+*/
+
 -- 1. Manager ID-si 100 olan və komissiyası olmayan əməkdaşların adı və maaşı.
 select first_name, salary from employees where manager_id = 100 and commission_pct is null;
 
