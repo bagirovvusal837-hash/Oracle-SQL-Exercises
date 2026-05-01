@@ -1,9 +1,17 @@
-# 📊 SQL Learning Journey - From Basics to Advanced
+​📊 Advanced SQL Portfolio: Data Analytics & Database Design
+​Bu repozitoriya, mənim Oracle SQL üzrə dərinləşdirilmiş biliklərimi, mürəkkəb biznes məntiqlərini və data idarəetmə bacarığımı əks etdirir. Burada sadə sorğulardan başlayaraq, böyük həcmli dataların analizi üçün istifadə olunan qabaqcıl texnikalara qədər (Window Functions, Regex, Performance Tuning) 100-dən çox real ssenari toplanmışdır.
 
-Bu repozitoriya mənim SQL və Verilənlər Bazası üzrə öyrənmə yolçuluğumu əks etdirir. Burada Oracle SQL (HR və CO sxemaları) üzərində yerinə yetirdiyim 100-dən çox praktik tapşırıq və real ssenarilərə əsaslanan sorğular toplanmışdır.
 
 ## 👤 Müəllif
-**Bağırov Vüsal** - *Data Analytics Enthusiast*
+Bağırov Vüsal – Data Analyst & Logistics Specialist
+ADNSU tələbəsi | NICODE Academy SQL məzunu (97% nəticə)
+
+🚀 Layihənin Məqsədi
+Bu repo sadəcə SQL nümunələri deyil, real analitik yanaşmanın nümayişidir:
+Analitik Düşüncə – Biznes suallarını SQL ilə həll etmək
+Data Modeling – Normalizasiya və struktur dizayn
+Performance – Böyük data üzərində optimallaşdırılmış sorğular
+Real Use-Cases – Praktik və biznes yönümlü ssenarilər
 
 ---
 
