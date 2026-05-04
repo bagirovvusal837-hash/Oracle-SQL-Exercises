@@ -1,4 +1,4 @@
-​📊 Advanced SQL Portfolio: Data Analytics & Database Design
+​📊 Advanced SQL Portfolio: Data Analytics & Database Design 
 ​Bu repozitoriya, mənim Oracle SQL üzrə dərinləşdirilmiş biliklərimi, mürəkkəb biznes məntiqlərini və data idarəetmə bacarığımı əks etdirir. Burada sadə sorğulardan başlayaraq, böyük həcmli dataların analizi üçün istifadə olunan qabaqcıl texnikalara qədər (Window Functions, Regex, Performance Tuning) 100-dən çox real ssenari toplanmışdır.
 
 
